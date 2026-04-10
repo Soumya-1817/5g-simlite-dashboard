@@ -19,7 +19,7 @@ const QUEUE_CAP = 8;
 const TICK_MS   = 50;
 const BASE_DT   = 0.05;
 const MAX_UES   = 6;
-const WS_URL    = "ws://localhost:8000/ws/sim";
+const WS_URL    = "wss://fiveg-simlite-backend.onrender.com/ws/sim";
 
 // Main SVG canvas (home page)
 const SVG_W = 680, SVG_H = 340;
