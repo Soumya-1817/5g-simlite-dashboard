@@ -6,3 +6,7 @@ python-multipart==0.0.12
 
 # cd Backend uvicorn main:app --reload --port 8000
 # npm run dev
+#git add 
+#git commit -m "Fix vite base path"
+#git push
+#npm run deploy
